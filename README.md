@@ -1,0 +1,2 @@
+# blind-trader-school.
+Tests
